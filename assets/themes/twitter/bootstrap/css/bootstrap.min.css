@@ -157,8 +157,7 @@ h2, h3 {
 }
 body {
 	margin:0;
-	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size:15px;
+	font:14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height:25px;
 	color:#444;
 	background-color:#F2F2F2
@@ -606,7 +605,7 @@ ul ul, ul ol, ol ol, ol ul {
 	margin-bottom:0
 }
 li {
-	line-height:25px
+	line-height:1.5
 }
 ul.unstyled, ol.unstyled {
 	margin-left:0;
